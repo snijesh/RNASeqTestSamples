@@ -1,2 +1,2 @@
 # RNASeqTestSamples
- sequemcing performed to check the quality of the samples
+ sequencing performed to check the quality of the samples

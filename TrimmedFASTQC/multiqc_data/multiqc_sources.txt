@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	C_1043_DKDL220003195-1a_H5MGMDSX3_L1_2_val_2	/media/molmed/Data/DrJYO/fastq/trimmed/C_1043_DKDL220003195-1a_H5MGMDSX3_L1_2_val_2_fastqc.zip
+FastQC	all_sections	B_1041_DKDL220003194-1a_H5MGMDSX3_L1_1_val_1	/media/molmed/Data/DrJYO/fastq/trimmed/B_1041_DKDL220003194-1a_H5MGMDSX3_L1_1_val_1_fastqc.zip
+FastQC	all_sections	B_1041_DKDL220003194-1a_H5MGMDSX3_L1_2_val_2	/media/molmed/Data/DrJYO/fastq/trimmed/B_1041_DKDL220003194-1a_H5MGMDSX3_L1_2_val_2_fastqc.zip
+FastQC	all_sections	D_1045_DKDL220003196-1a_H5MGMDSX3_L1_1_val_1	/media/molmed/Data/DrJYO/fastq/trimmed/D_1045_DKDL220003196-1a_H5MGMDSX3_L1_1_val_1_fastqc.zip
+FastQC	all_sections	A_1233_DKDL220003193-1a_H5MGMDSX3_L1_2_val_2	/media/molmed/Data/DrJYO/fastq/trimmed/A_1233_DKDL220003193-1a_H5MGMDSX3_L1_2_val_2_fastqc.zip
+FastQC	all_sections	D_1045_DKDL220003196-1a_H5MGMDSX3_L1_2_val_2	/media/molmed/Data/DrJYO/fastq/trimmed/D_1045_DKDL220003196-1a_H5MGMDSX3_L1_2_val_2_fastqc.zip
+FastQC	all_sections	A_1233_DKDL220003193-1a_H5MGMDSX3_L1_1_val_1	/media/molmed/Data/DrJYO/fastq/trimmed/A_1233_DKDL220003193-1a_H5MGMDSX3_L1_1_val_1_fastqc.zip
+FastQC	all_sections	C_1043_DKDL220003195-1a_H5MGMDSX3_L1_1_val_1	/media/molmed/Data/DrJYO/fastq/trimmed/C_1043_DKDL220003195-1a_H5MGMDSX3_L1_1_val_1_fastqc.zip
